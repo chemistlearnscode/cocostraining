@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>rabbitbrown.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{63,63},{50,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{7,7},{50,50}}</string>
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+
+			<key>rabbitdad.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,63},{62,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{1,6},{62,52}}</string>
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+
+			<key>rabbitgreen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{64,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,1},{64,62}}</string>
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+
+			<key>rabbitred.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,0},{42,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{11,1},{42,62}}</string>
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{128,128}</string>
+			<key>textureFileName</key>
+			<string>bunnyfamily.png</string>
+			</dict>
+		</dict>
+</plist>
